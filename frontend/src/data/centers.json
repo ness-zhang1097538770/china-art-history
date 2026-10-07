@@ -1,0 +1,34 @@
+[
+  { "dynasty": "tang", "place": "xian", "weight": 1.0, "type": "宫廷", "note": "两京画师与画院", "description": "长安是当时的世界性都市，宫廷与寺观的壁画、卷轴需求催生了高度统一的艺术标准。画工与画师共用粉本，审美趣味沿驿道与丝路辐射四方。" },
+  { "dynasty": "tang", "place": "luoyang", "weight": 0.55, "type": "宫廷", "note": "东都画工", "description": "东都洛阳与长安并称两京，皇家寺观壁画规模宏大，聚集大批宫廷画工，是仅次于长安的皇家艺术重镇。" },
+  { "dynasty": "tang", "place": "dunhuang", "weight": 0.72, "type": "宗教", "note": "莫高窟壁画", "description": "敦煌地处丝路要冲，莫高窟持续开凿。画工与两京画师共用同一套粉本图样，使边地的宗教壁画与中原宫廷艺术同源同流。" },
+  { "dynasty": "tang", "place": "chengdu", "weight": 0.32, "type": "宗教", "note": "益州宗教壁画", "description": "益州自古富庶，寺观造像与壁画传统深厚，作为西南重镇承接了中原粉本向蜀地的传播。" },
+
+  { "dynasty": "wudai", "place": "nanjing", "weight": 0.9, "type": "宫廷", "note": "南唐画院", "description": "南唐定都金陵，设画院礼遇画师，董源、巨然等在此开创江南山水，成为分裂时代南方宫廷艺术的核心。" },
+  { "dynasty": "wudai", "place": "chengdu", "weight": 0.85, "type": "宫廷", "note": "西蜀画院", "description": "西蜀画院与南唐并称，黄筌父子的花鸟画精工写实，形成「黄家富贵」的宫廷范式，影响北宋画院数百年。" },
+  { "dynasty": "wudai", "place": "xian", "weight": 0.3, "type": "宫廷", "note": "关中余绪", "description": "关中残唐余绪尚存，旧京画工星散，仍维系着中原绘画传统的一线脉络。" },
+  { "dynasty": "wudai", "place": "kaifeng", "weight": 0.35, "type": "宫廷", "note": "中原画工", "description": "后梁至后周相继定都汴州，中原画工渐次向新都聚集，为北宋汴京画院的极盛埋下伏笔。" },
+
+  { "dynasty": "song_n", "place": "kaifeng", "weight": 1.0, "type": "宫廷", "note": "翰林图画院", "description": "汴京为北宋都城，翰林图画院制度完备，画师纳入官僚体系。山水在此发展为完整的宇宙图式，市井题材也开始进入绘画。" },
+  { "dynasty": "song_n", "place": "luoyang", "weight": 0.6, "type": "文人", "note": "西京文人", "description": "洛阳为西京，士人云集，文人画的笔墨趣味在此酝酿，与汴京宫廷画院形成双线并行的格局。" },
+  { "dynasty": "song_n", "place": "chengdu", "weight": 0.3, "type": "市民", "note": "蜀地市井", "description": "蜀地市井繁华，商业发达，民间绘画与赏画风气盛行，是北宋都市文化的一个侧影。" },
+
+  { "dynasty": "song_s", "place": "hangzhou", "weight": 1.0, "type": "宫廷", "note": "绍兴画院·马远夏圭", "description": "临安为南宋行在，绍兴画院承北宋制度，李唐、马远、夏圭等将山水构图从全景收缩为「一角半边」，政治收缩被写进留白。" },
+  { "dynasty": "song_s", "place": "suzhou", "weight": 0.35, "type": "文人", "note": "吴中士人", "description": "苏州是江南士人聚集之地，文人审美开始抬头，为元代文人画在江南的全面崛起做了铺垫。" },
+
+  { "dynasty": "yuan", "place": "suzhou", "weight": 0.8, "type": "文人", "note": "元四家", "description": "苏州士人网络发达，元四家中的黄公望、吴镇、倪瓒、王蒙多活动于此，笔墨趣味取代宫廷标准，文人画成为主流。" },
+  { "dynasty": "yuan", "place": "hangzhou", "weight": 0.68, "type": "文人", "note": "钱塘遗民画家", "description": "钱塘遗民画家聚集，赵孟頫等在此倡导「复古」，以书法入画，重塑了文人画的审美方向。" },
+  { "dynasty": "yuan", "place": "beijing", "weight": 0.45, "type": "宫廷", "note": "大都宫廷", "description": "大都为元朝都城，宫廷仍有画院与宗教绘画需求，但已不再是艺术风尚的决定者。" },
+  { "dynasty": "yuan", "place": "taiyuan", "weight": 0.25, "type": "宗教", "note": "永乐宫壁画", "description": "山西寺观壁画传统深厚，永乐宫壁画集元代宗教绘画之大成，延续了北方画工的精湛技艺。" },
+
+  { "dynasty": "ming", "place": "suzhou", "weight": 1.0, "type": "文人", "note": "吴门画派", "description": "苏州商业繁荣，吴门画派以商养艺。沈周、文徵明、唐寅、仇英以市场为依托，文人画与职业画在此交汇。" },
+  { "dynasty": "ming", "place": "beijing", "weight": 0.6, "type": "宫廷", "note": "明代宫廷画院", "description": "北京为明代都城，宫廷画院承宋制，但画坛风尚已被江南商业趣味主导，宫廷绘画趋于程式化。" },
+  { "dynasty": "ming", "place": "nanjing", "weight": 0.55, "type": "文人", "note": "金陵文人", "description": "明初定都南京，金陵文人画风自成一体，董其昌等在此提出「南北宗」论，影响此后三百年画史。" },
+  { "dynasty": "ming", "place": "hangzhou", "weight": 0.5, "type": "宫廷", "note": "浙派宫廷", "description": "杭州承南宋画院余绪，浙派戴进、吴伟等以院体山水复兴，一度成为职业画家的中心。" },
+
+  { "dynasty": "qing", "place": "beijing", "weight": 0.95, "type": "宫廷", "note": "清宫画院", "description": "北京为清都，清宫画院规模庞大，宫廷绘画集正统之大成，但画坛的活力已转向江南的商业城市。" },
+  { "dynasty": "qing", "place": "yangzhou", "weight": 0.8, "type": "市民", "note": "扬州八怪", "description": "扬州盐商富甲天下，以金农、郑板桥为代表的「扬州八怪」由市场供养，市民趣味与商业赞助成为绘画的新动力。" },
+  { "dynasty": "qing", "place": "suzhou", "weight": 0.55, "type": "文人", "note": "吴门余脉", "description": "苏州吴门余脉未绝，文人画传统深厚，仍是江南书画创作与收藏的重镇。" },
+  { "dynasty": "qing", "place": "nanjing", "weight": 0.5, "type": "文人", "note": "金陵八家", "description": "金陵八家以遗民情怀作画，南京的文人圈延续了明代以来的雅集与师承传统。" },
+  { "dynasty": "qing", "place": "shanghai", "weight": 0.45, "type": "市民", "note": "海上画派", "description": "上海开埠后迅速崛起，海上画派以任伯年等为代表，在商业都市的赞助下走向近代，预示了艺术中心的下一次南移。" }
+]

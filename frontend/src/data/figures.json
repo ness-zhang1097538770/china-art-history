@@ -1,0 +1,45 @@
+[
+  { "name": "吴道子", "birth": 680, "death": 758, "place": "xian", "dynasty": "tang", "works": [{ "title": "送子天王图", "collection": "大阪市立美术馆" }] },
+  { "name": "阎立本", "birth": 601, "death": 673, "place": "xian", "dynasty": "tang", "works": [{ "title": "步辇图", "collection": "故宫博物院" }, { "title": "历代帝王图", "collection": "波士顿美术博物馆" }] },
+  { "name": "王维", "birth": 701, "death": 761, "place": "xian", "dynasty": "tang", "works": [{ "title": "辋川图（传摹）", "collection": "传世摹本" }] },
+  { "name": "张萱", "birth": 713, "death": 755, "place": "xian", "dynasty": "tang", "works": [{ "title": "捣练图", "collection": "波士顿美术博物馆" }, { "title": "虢国夫人游春图（传）", "collection": "辽宁省博物馆" }] },
+  { "name": "周昉", "birth": 730, "death": 800, "place": "xian", "dynasty": "tang", "works": [{ "title": "簪花仕女图", "collection": "辽宁省博物馆" }, { "title": "挥扇仕女图", "collection": "故宫博物院" }] },
+
+  { "name": "顾闳中", "birth": 910, "death": 980, "place": "nanjing", "dynasty": "wudai", "works": [{ "title": "韩熙载夜宴图", "collection": "故宫博物院" }] },
+  { "name": "董源", "birth": 934, "death": 962, "place": "nanjing", "dynasty": "wudai", "works": [{ "title": "潇湘图", "collection": "故宫博物院" }, { "title": "夏景山口待渡图", "collection": "辽宁省博物馆" }] },
+  { "name": "巨然", "birth": 960, "death": 995, "place": "nanjing", "dynasty": "wudai", "works": [{ "title": "秋山问道图", "collection": "台北故宫博物院" }] },
+  { "name": "黄筌", "birth": 903, "death": 965, "place": "chengdu", "dynasty": "wudai", "works": [{ "title": "写生珍禽图", "collection": "故宫博物院" }] },
+
+  { "name": "范宽", "birth": 950, "death": 1032, "place": "luoyang", "dynasty": "song_n", "works": [{ "title": "溪山行旅图", "collection": "台北故宫博物院" }, { "title": "雪景寒林图", "collection": "天津博物馆" }] },
+  { "name": "张择端", "birth": 1085, "death": 1145, "place": "kaifeng", "dynasty": "song_n", "works": [{ "title": "清明上河图", "collection": "故宫博物院" }] },
+  { "name": "郭熙", "birth": 1020, "death": 1090, "place": "luoyang", "dynasty": "song_n", "works": [{ "title": "早春图", "collection": "台北故宫博物院" }, { "title": "窠石平远图", "collection": "故宫博物院" }] },
+  { "name": "苏轼", "birth": 1037, "death": 1101, "place": "kaifeng", "dynasty": "song_n", "works": [{ "title": "枯木怪石图", "collection": "私人收藏" }, { "title": "潇湘竹石图", "collection": "中国美术馆" }] },
+  { "name": "米芾", "birth": 1051, "death": 1107, "place": "kaifeng", "dynasty": "song_n", "works": [{ "title": "米氏云山（传）", "collection": "传世摹本" }] },
+  { "name": "李公麟", "birth": 1049, "death": 1106, "place": "kaifeng", "dynasty": "song_n", "works": [{ "title": "五马图", "collection": "故宫博物院" }] },
+
+  { "name": "李唐", "birth": 1066, "death": 1150, "place": "hangzhou", "dynasty": "song_s", "works": [{ "title": "万壑松风图", "collection": "台北故宫博物院" }, { "title": "采薇图", "collection": "故宫博物院" }] },
+  { "name": "刘松年", "birth": 1155, "death": 1218, "place": "hangzhou", "dynasty": "song_s", "works": [{ "title": "四景山水图", "collection": "故宫博物院" }] },
+  { "name": "马远", "birth": 1140, "death": 1225, "place": "hangzhou", "dynasty": "song_s", "works": [{ "title": "踏歌图", "collection": "故宫博物院" }, { "title": "水图", "collection": "故宫博物院" }] },
+  { "name": "夏圭", "birth": 1180, "death": 1230, "place": "hangzhou", "dynasty": "song_s", "works": [{ "title": "溪山清远图", "collection": "台北故宫博物院" }, { "title": "长江万里图（传）", "collection": "台北故宫博物院" }] },
+  { "name": "梁楷", "birth": 1150, "death": 1230, "place": "hangzhou", "dynasty": "song_s", "works": [{ "title": "泼墨仙人图", "collection": "台北故宫博物院" }] },
+
+  { "name": "赵孟頫", "birth": 1254, "death": 1322, "place": "hangzhou", "dynasty": "yuan", "works": [{ "title": "鹊华秋色图", "collection": "台北故宫博物院" }, { "title": "秋郊饮马图", "collection": "故宫博物院" }] },
+  { "name": "黄公望", "birth": 1269, "death": 1354, "place": "suzhou", "dynasty": "yuan", "works": [{ "title": "富春山居图", "collection": "台北故宫博物院" }, { "title": "天池石壁图（传）", "collection": "故宫博物院" }] },
+  { "name": "吴镇", "birth": 1280, "death": 1354, "place": "suzhou", "dynasty": "yuan", "works": [{ "title": "渔父图", "collection": "故宫博物院" }] },
+  { "name": "倪瓒", "birth": 1301, "death": 1374, "place": "suzhou", "dynasty": "yuan", "works": [{ "title": "六君子图", "collection": "上海博物馆" }, { "title": "容膝斋图", "collection": "台北故宫博物院" }] },
+  { "name": "王蒙", "birth": 1308, "death": 1385, "place": "hangzhou", "dynasty": "yuan", "works": [{ "title": "青卞隐居图", "collection": "上海博物馆" }, { "title": "葛稚川移居图", "collection": "故宫博物院" }] },
+
+  { "name": "沈周", "birth": 1427, "death": 1509, "place": "suzhou", "dynasty": "ming", "works": [{ "title": "庐山高图", "collection": "台北故宫博物院" }, { "title": "京江送别图", "collection": "故宫博物院" }] },
+  { "name": "文徵明", "birth": 1470, "death": 1559, "place": "suzhou", "dynasty": "ming", "works": [{ "title": "真赏斋图", "collection": "上海博物馆" }, { "title": "惠山茶会图", "collection": "故宫博物院" }] },
+  { "name": "唐寅", "birth": 1470, "death": 1524, "place": "suzhou", "dynasty": "ming", "works": [{ "title": "秋风纨扇图", "collection": "上海博物馆" }, { "title": "王蜀宫妓图", "collection": "故宫博物院" }] },
+  { "name": "仇英", "birth": 1494, "death": 1552, "place": "suzhou", "dynasty": "ming", "works": [{ "title": "汉宫春晓图", "collection": "台北故宫博物院" }] },
+  { "name": "董其昌", "birth": 1555, "death": 1636, "place": "nanjing", "dynasty": "ming", "works": [{ "title": "秋兴八景图", "collection": "上海博物馆" }] },
+  { "name": "徐渭", "birth": 1521, "death": 1593, "place": "hangzhou", "dynasty": "ming", "works": [{ "title": "墨葡萄图", "collection": "故宫博物院" }] },
+
+  { "name": "王翚", "birth": 1632, "death": 1717, "place": "suzhou", "dynasty": "qing", "works": [{ "title": "康熙南巡图", "collection": "故宫博物院" }] },
+  { "name": "石涛", "birth": 1642, "death": 1707, "place": "yangzhou", "dynasty": "qing", "works": [{ "title": "搜尽奇峰打草稿", "collection": "故宫博物院" }, { "title": "淮扬洁秋图", "collection": "南京博物院" }] },
+  { "name": "朱耷", "birth": 1626, "death": 1705, "place": "yangzhou", "dynasty": "qing", "works": [{ "title": "河上花图", "collection": "天津博物馆" }] },
+  { "name": "金农", "birth": 1687, "death": 1763, "place": "yangzhou", "dynasty": "qing", "works": [{ "title": "自画像", "collection": "故宫博物院" }] },
+  { "name": "郑板桥", "birth": 1693, "death": 1765, "place": "yangzhou", "dynasty": "qing", "works": [{ "title": "竹石图", "collection": "上海博物馆" }, { "title": "兰竹图", "collection": "故宫博物院" }] },
+  { "name": "任伯年", "birth": 1840, "death": 1895, "place": "shanghai", "dynasty": "qing", "works": [{ "title": "群仙祝寿图", "collection": "上海博物馆" }] }
+]
