@@ -1,5 +1,6 @@
 # 中国艺术史时空地图
 
+![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-Demo%20%E5%B7%B2%E5%AE%8C%E6%88%90-2ea44f?style=flat)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat&logo=vite&logoColor=white)
