@@ -6,6 +6,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-5-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Baidu Map](https://img.shields.io/badge/Baidu_Map-JS_API_2.0-2932E1?style=flat)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 > 一张会随时间变化的地图，三分钟看懂「中国美术的中心为什么一路往南走」。
 
